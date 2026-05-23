@@ -51,14 +51,6 @@ Fora do universo do código e dos estudos acadêmicos, dedico meu tempo livre à
 
 ---
 
-## 📈 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dvni0&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Vinícius" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvni0&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas" height="150"/>
-</div>
-
----
 
 ## 📫 Conecte-se Comigo
 

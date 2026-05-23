@@ -65,4 +65,4 @@ Fora do universo do código e dos estudos acadêmicos, dedico meu tempo livre à
 Seja para conversar sobre engenharia de computação, arquitetura de software, Linux ou novas oportunidades, sinta-se à vontade para entrar em contato ou conferir meus projetos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusbarros-souza/)
-[![Portfólio Neocities](https://img.shields.io/badge/Portfólio_Neocities-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://seu-site.neocities.org)
+[![Portfólio Neocities](https://img.shields.io/badge/Portfólio_Neocities-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://vinmind.neocities.org/)

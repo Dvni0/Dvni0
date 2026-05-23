@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de Engenharia da Computação na FIAP, apaixonado por tecnologia e desenvolvimento de software. Meus principais interesses orbitam em torno da arquitetura de software, desenvolvimento web e o entendimento aprofundado de sistemas operacionais. Utilizo o Linux Mint como meu ambiente de trabalho principal, onde exploro desde diagnósticos de hardware e configurações de kernel até projetos desafiadores envolvendo visão computacional.
+Sou estudante de Engenharia da Computação na FIAP, apaixonado por tecnologia e desenvolvimento de software. Meus principais interesses orbitam em torno da arquitetura de software, desenvolvimento web e o entendimento aprofundado de sistemas operacionais. Utilizo o Linux Mint como meu ambiente de trabalho principal, onde exploro projetos desafiadores envolvendo visão computacional, por exemplo.
 
 No campo prático, venho consolidando minha base técnica em diferentes linguagens e ecossistemas. Desenvolvo projetos com foco em automação, inteligência artificial aplicada e arquitetura robusta, construindo desde interfaces web modernas até aplicações desktop de alta fidelidade.
 
